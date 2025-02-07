@@ -32,5 +32,4 @@ host_upgrade() {
     fi
 }
 
-# Uncomment the line below to execute the function when the script runs
 host_upgrade
