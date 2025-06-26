@@ -226,4 +226,4 @@ else:
     print(f"⚠️  Exists: {license_path} (skipped)")
 
 
-print("\n🎉 Toolkit folder structure and base contents fully initialized!")
+print("\n🎉 Blue Team Toolkit folder structure and base contents fully initialized!")
